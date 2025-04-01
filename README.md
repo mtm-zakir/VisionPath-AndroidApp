@@ -78,14 +78,14 @@ This app has 3 main features:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/dreamspace-academy/dreamhack-2025-metro-dev.git
-   cd visionpath
+   git clone https://github.com/mtm-zakir/VisionPath-AndroidApp.git
+   cd VisionPath-AndroidApp
    ```
 
 2. **Open the project in Android Studio**:
     - Launch Android Studio.
     - Select "Open an existing Android Studio project".
-    - Navigate to the cloned repository and select the `visionpath` directory.
+    - Navigate to the cloned repository and select the `VisionPath-AndroidApp` directory.
 
 3. **Build the project**:
     - Click on the "Build" menu and select "Make Project" or press `Ctrl+F9`.
@@ -112,6 +112,4 @@ The application requires the following permissions:
 
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
-## Contact
-
-For any inquiries or support, please contact Metro Dev.
+<h1 align="center">Credits to M.T.M. Zakir</h1>
